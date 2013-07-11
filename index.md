@@ -27,14 +27,20 @@ Sample project using passport-local-mongoose. Investigating some different optio
 **NodeJS Authentication**
 
 - http://passportjs.org/
-- https://github.com/saintedlama/passport-local-mongoose
+- https://github.com/jaredhanson/passport
 - https://github.com/bnoguchi/everyauth
 - https://github.com/bnoguchi/mongoose-auth
-
+- https://github.com/saintedlama/passport-local-mongoose
 
 **NodeJS sample apps**
 
 - https://github.com/alexyoung/nodepad
+
+**NodeJS REST security articles**
+
+- http://www.quietless.com/kitchen/building-a-login-system-in-node-js-and-mongodb
+- http://dailyjs.com/2010/12/06/node-tutorial-5/
+
 
 **StackOverflow**
 
