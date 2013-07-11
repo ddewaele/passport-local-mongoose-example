@@ -20,14 +20,17 @@ Sample project using passport-local-mongoose. Investigating some different optio
 - http://www.mozilla.org/en-US/persona/
 
 
+**NodeJS backends**
 
+- http://mongoosejs.com/
 
-**NodeJS**
+**NodeJS Authentication**
 
 - http://passportjs.org/
 - https://github.com/saintedlama/passport-local-mongoose
 - https://github.com/bnoguchi/everyauth
-- http://mongoosejs.com/
+- https://github.com/bnoguchi/mongoose-auth
+
 
 **NodeJS sample apps**
 
